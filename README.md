@@ -1,1 +1,1 @@
-# KNN-ALGO.
+# KNN-ALGO by hand.
